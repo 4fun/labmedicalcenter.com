@@ -4,10 +4,11 @@ description:      Laboratorio Clinico de referencia Hormonal y Fertilidad
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-site.com
 #url:              file://localhost/Users/guerrerocarlos/Downloads/minimal-mistakes-master/_site/ 
+url:             "http://labmedicalcenter.com"
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lab. Medical Center 
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
   email:          your@email.com
@@ -32,11 +33,11 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Quienes somos 
-    url: /about
+    url: /quienes-somos
   - title: Servicios 
-    url: /theme-setup
+    url: /servicios
   - title: Contáctenos 
-    url: /articles
+    url: /contactenos
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true

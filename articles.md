@@ -1,9 +1,11 @@
 ---
-layout: post-index
+layout: home
 permalink: /articles/index.html
-title: Articles
-tagline: A List of Posts
-tags: [blog, graphic design]
+description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: texture-feature-03.jpg
+  feature: banner.gif 
 ---
+
+<img style="width:80%;" src="/images/centroconflechas.png">
+<img style="margin-left:10%;width:60%;" src="/images/fb.jpeg">
