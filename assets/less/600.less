@@ -12,9 +12,16 @@ html {
 	.suffix(12,0.5);
 }
 .top-navigation {
-	.grid(12,9);
-	.prefix(12,0);
+	.grid(12,8);
+	.prefix(12,1);
 	.suffix(12,0);
+}
+.texto{
+  .grid(12,6);
+  .prefix(12,0);
+  font-family: @baseheadingfont;
+  font-color: @textcolor;
+  font-size: 120%;
 }
 .image-wrap .headline-wrap,
 .image-wrap:after {
@@ -43,6 +50,13 @@ html {
 	.grid(12,2);
 	.prefix(12,0.5);
 	.suffix(12,0.5);
+}
+.tips {
+	display: block;
+	.grid(12,2);
+	.prefix(12,0.5);
+	.suffix(12,0.5);
+  float: right;
 }
 .article-author-bottom {
 	display: none;

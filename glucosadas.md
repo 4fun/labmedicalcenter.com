@@ -1,0 +1,13 @@
+---
+layout: home
+permalink: /glucosadas/index.html
+image:
+  feature: banner.gif
+---
+
+###TOLERANCIAS GLUCOSADAS
+* CURVA GLUCOSADA A _____ HORAS
+* DETERMINACION DE INSULINA A ____ HORAS
+* GLICEMIA PRE Y POST PRANDIAL CON INSULINA
+* GLICEMIA PRE Y POST CARGA CON INSULINA
+

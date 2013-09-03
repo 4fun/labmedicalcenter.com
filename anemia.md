@@ -1,0 +1,14 @@
+---
+layout: home
+permalink: /anemia/index.html
+image:
+  feature: banner.gif
+---
+
+###PERFIL ANEMIA 
+* HEMATOLOGIA COMPLETA CON PLAQUETAS 
+* HIERRO SERICO
+* FERRITINA – TRANSFERRINA
+* % DE SATURACION DE TRANSFERRINA
+* ACIDO FOLICO – VITMINA B12
+

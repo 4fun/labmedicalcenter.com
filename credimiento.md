@@ -1,0 +1,15 @@
+---
+layout: home
+permalink: /crecimiento/index.html
+image:
+  feature: banner.gif
+---
+
+###PERFIL CRECIMIENTO 
+* HEMATOLOGIA COMPLETA CON PLAQUETAS 
+* CALCIO – FOSFORO – FOSFATASA ALCALINA 
+* CALCIO – FOSFORO – CREATININA – ACIDO URICO en  ORINA Parcial
+* T4 Libre – TSH 
+* HORMONA DE CRECIMIENTO BASAL – IGF1
+* GASES VENOSOS 
+

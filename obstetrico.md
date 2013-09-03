@@ -1,0 +1,16 @@
+---
+layout: home
+permalink: /obstetrico/index.html
+image:
+  feature: banner.gif
+---
+
+###PERFIL OBSTETRICO
+* HEMATOLOGIA COMPLETA CON PLAQUETAS
+* GLICEMIA – UREA – CREATININA
+* GLICEMIA PRE Y POST (OPCIONAL)
+* GRUPO SANGUINEO Y FACTOR Rh
+* TOXOPLASMOIS IgG / IgM  (ELFA)
+* HIV – VDRL
+* SCREENING PRENATAL (OPCIONAL)
+* ORINA 
