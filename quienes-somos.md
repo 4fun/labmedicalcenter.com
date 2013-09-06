@@ -7,7 +7,7 @@ image:
   feature: banner.gif 
 ---
 
-## ¿QUIENES SOMOS?
+### ¿QUIENES SOMOS?
 
 **LAB. MEDICAL CENTER**, ofrece los mejores servicios de laboratorio, cuyos factores diferenciales son: confiabilidad, agilidad en la atención y calidez. Contamos con un excelente equipo de trabajo, alta calidad en el proceso de estudios, rapidez y veracidad en resultados porque para nosotros su satisfacción es primordial. 
 
@@ -25,14 +25,14 @@ Contamos con la experiencia de los mejores profesionales en Bioanálisis, incluy
 
 En **Lab. Medical Center**, todas las pruebas son realizadas de manera eficiente, eficaz y sus resultados son entregados oportunamente a fin de ofrecerles a  los pacientes que requieren de nuestros servicios,  respuestas inmediatas a sus necesidades. 
 
-####MISION
+###MISION
 
 Contribuir de forma efectiva en el mantenimiento y recuperación total de la salud de nuestros pacientes, apoyándonos para ello en  equipos con tecnología de punta. 
 
-####VISION
+###VISION
 Ser un laboratorio clínico de referencia a nivel  nacional, por su tecnología innovadora, excelencia en sus servicios y altos estándares de calidad ofrecida a todos los pacientes que nos visitan, del mismo modo ampliar de manera significativa la gama de pruebas clínicas que estamos en disposición de realizar.
 
-####Fortalezas
+###FORTALEZAS
 
 El profesionalismo de nuestros personal, en un ambiente agradable y altamente calificado para un excelente desempeño, en cada una de las labores cotidianas y teniendo siempre en mente la satisfacción de nuestros clientes.
 

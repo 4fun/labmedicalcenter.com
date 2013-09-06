@@ -9,9 +9,11 @@ image:
 
 ### Toma de muestras a domicilio
 
-* [NUEVAS PRUEBAS EN GENETICA Y BIOLOGIA MOLECULAR](/nuevas)
+### Pruebas nuevas:
 
-## Perfiles:
+* [GENETICA Y BIOLOGIA MOLECULAR](/nuevas)
+
+### Perfiles:
 
 * [PERFIL GENERAL](/general)
 * [PERFIL LIPIDICO](/lipidico)
@@ -40,7 +42,7 @@ image:
 * [PERFIL VASCULITIS (INMUNOBLOD)](/vasculitis)
 * [HEPATITIS AUTOINMUNE (INMUNOBLOD)](/autoinmune)
 
-## Servicios Empresariales:
+### Servicios Empresariales:
 
 * PRE-EMPLEO.
 * PRE-VACACIONAL. 
