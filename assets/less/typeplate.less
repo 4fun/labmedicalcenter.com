@@ -302,7 +302,6 @@
 		font-size: @font-size;
 		font-family: @font-family;
 		line-height: @lineHeight;
-		text-indent: @text-indent;
 		background: @bg;
 		color: @color;
 	}
@@ -458,8 +457,8 @@ p {
 	margin: 0 0 @indent-val;
 	& + p {
 		//siblings indentation
-		text-indent: @indent-val;
 		margin-top: -@indent-val;
+    text-indent: 0em;
 	}
 }
 

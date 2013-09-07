@@ -4,7 +4,7 @@ description:      Laboratorio Clinico de referencia Hormonal y Fertilidad
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-site.com
 #url:              file://localhost/Users/guerrerocarlos/Downloads/minimal-mistakes-master/_site/ 
-url:             "http://labmedicalcenter.com"
+#url:             "http://labmedicalcenter.com"
 
 # Owner/author information
 owner:

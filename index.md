@@ -6,5 +6,5 @@ image:
   feature: banner.gif 
 ---
 
-<img style="width:80%;" src="images/centroconflechas.png">
-<img style="margin-left:10%;width:60%;" src="images/fb.jpeg">
+<img style="margin-left:8%;width:80%;" src="images/centro.jpg">
+<img style="margin-left:10%;width:60%;" src="images/Facebook.png">
